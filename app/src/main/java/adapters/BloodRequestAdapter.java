@@ -15,12 +15,7 @@ import java.util.List;
 
 import viewmodels.CustomUserData;
 
-/***
- Project Name: BloodBank
- Project Date: 10/11/18
- Created by: Lovine Oduor
- Email: oduor.lovine@gmail.com
- ***/
+
 
 public class BloodRequestAdapter extends RecyclerView.Adapter<BloodRequestAdapter.PostHolder> {
 

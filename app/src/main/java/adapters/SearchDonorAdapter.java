@@ -22,11 +22,7 @@ import viewmodels.DonorData;
 public class SearchDonorAdapter extends RecyclerView.Adapter<SearchDonorAdapter.PostHolder> {
 
 
-//    private List<DonorData> postLists;
-//
-//    public void notifyDataSetChanged() {
-//
-//    }
+
 
     public class PostHolder extends RecyclerView.ViewHolder
     {
